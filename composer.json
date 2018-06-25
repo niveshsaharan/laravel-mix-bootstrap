@@ -1,0 +1,12 @@
+{
+    "name": "centire/laravel-mix-without-laravel",
+    "authors": [
+        {
+            "name": "Nivesh",
+            "email": "nivesh@centire.in"
+        }
+    ],
+    "autoload": {
+        "files": ["mix.php"]
+    }
+}
